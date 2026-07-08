@@ -34,7 +34,9 @@ The project uses a helmet detection image dataset containing two classes:
 - Wearing Helmet
 - Not Wearing Helmet
   
-The dataset is included in this repository under the `dataset` folder.
+The dataset is included in this repository under the `Dataset` folder.
+
+Note: A sample of the dataset is included in this repository. The complete dataset used for training contained 300 images of each class.
 
 ## Project Workflow
 
@@ -53,13 +55,6 @@ The dataset is included in this repository under the `dataset` folder.
 
 The trained CNN model successfully classifies images into helmet and non-helmet categories and demonstrates the application of deep learning for image classification tasks.
 
-## Repository Structure
-
-```
-helmet-detection-cnn/
-│── Helmet_Detection_CNN.ipynb
-└── README.md
-```
 
 ## Development Environment
 
